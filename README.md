@@ -60,7 +60,7 @@ salary	                 Target variable
 
 *Linear Regression
 
-*Decision Tree Regression
+*gradient boosting regression
 
 *Random Forest Regression
 Evaluation Metrics:
