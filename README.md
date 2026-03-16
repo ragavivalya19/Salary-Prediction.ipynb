@@ -63,7 +63,9 @@ salary	                 Target variable
 *gradient boosting regression
 
 *Random Forest Regression
+
 Evaluation Metrics:
+
 *Mean Absolute Error (MAE)
 
 *Mean Squared Error (MSE)
